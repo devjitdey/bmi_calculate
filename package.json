@@ -1,0 +1,21 @@
+{
+  "name": "bmi_calculate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "mocha --exit --no-timeout test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.2",
+    "mocha": "^9.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
