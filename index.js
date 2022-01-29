@@ -80,7 +80,7 @@ function get_health_risk(bmi){
 
  
 // Port Number
-const PORT = process.env.PORT ||5000;
+const PORT = process.env.PORT || 5000;
  
 // Server Setup
 app.listen(PORT,console.log(

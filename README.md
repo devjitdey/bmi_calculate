@@ -9,6 +9,12 @@ Install the required dependencies using this command:
 ```
 $ npm install
 ```
+To start the backend application 
+
+```
+$ npm start
+```
+Then check it in http://127.0.0.1:5000/calculateBmi
 
 ### Testing
 
